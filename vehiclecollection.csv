@@ -1,0 +1,6 @@
+"VehicleID","VehicleType","YearofManufacture","BrandName","Country","Status","ModelID","VehID","VehicleFeaturesID","UserID"
+"1","HatchBACK","2020","Hyundai","India","DIESEL","23","1","23","21"
+"2","SUV","2021","Toyota","Koria","Disel","12","3","12","34"
+"3","Sedan","2022","Honda","JAPAN","PETROL","23","6","34","12"
+"4","COUPE","2023","MERCEDEZ","GERMENY","PETROL","12","2","12","13"
+"5","CAMPER","2021","ISUZU","JAPAN","DIESEL","89","23","2","14"
